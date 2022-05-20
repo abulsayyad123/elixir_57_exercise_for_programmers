@@ -22,5 +22,9 @@ defmodule CharactersCountTest do
     test "it returns character count with message of passed name" do
       assert CharactersCount.get_char_count_message("Hello") == "Hello has 5 characters."
     end
+
+    test "it returns error message if no input is passed" do
+      assert CharactersCount.get_char_count_message("") == "Please enter correct input"
+    end
   end
 end
