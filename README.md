@@ -2,6 +2,9 @@
 
 This Project is *Elixir* solution to exercises in book "**Exercises for Programmers**" by *Brian P. Hogan*
 
+### List of Exercises
+1. Saying Hello
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
