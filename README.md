@@ -8,6 +8,7 @@ This Project is *Elixir* solution to exercises in book "**Exercises for Programm
 3. Printing Quotes
 5. Simple Maths
 7. Area of Reactangular Room
+9. Paint Calculator
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
